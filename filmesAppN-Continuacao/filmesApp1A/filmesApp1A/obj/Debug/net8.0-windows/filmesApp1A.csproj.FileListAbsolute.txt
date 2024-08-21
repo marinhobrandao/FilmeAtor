@@ -1,0 +1,112 @@
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.exe
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.deps.json
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.runtimeconfig.json
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.pdb
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Npgsql.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.AssemblyReference.cache
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.Form1.resources
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.GenerateResource.cache
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.AssemblyInfoInputs.cache
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.AssemblyInfo.cs
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.CoreCompileInputs.cache
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.CopyComplete
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\refint\filmesApp1A.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.pdb
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.genruntimeconfig.cache
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\ref\filmesApp1A.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Castle.Core.dll
+D:\CTI\2024\LP2\Aula\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.exe
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.deps.json
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.runtimeconfig.json
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.pdb
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Castle.Core.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Npgsql.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.AssemblyReference.cache
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.Form1.resources
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.GenerateResource.cache
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.AssemblyInfoInputs.cache
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.AssemblyInfo.cs
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.CoreCompileInputs.cache
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.CopyComplete
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\refint\filmesApp1A.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.pdb
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.genruntimeconfig.cache
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\ref\filmesApp1A.dll
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.frmAtores.resources
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.frmNovoAtor.resources
+D:\CTI\2024\LP2\Aula\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.frmEditarAtor.resources
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.exe
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.deps.json
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.runtimeconfig.json
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\filmesApp1A.pdb
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.Form1.resources
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.frmAtores.resources
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.frmEditarAtor.resources
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.frmNovoAtor.resources
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.GenerateResource.cache
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.AssemblyInfoInputs.cache
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.AssemblyInfo.cs
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesAp.ADDD541C.Up2Date
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\refint\filmesApp1A.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.pdb
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.genruntimeconfig.cache
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\ref\filmesApp1A.dll
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.frmEditarFilme.resources
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.frmFilmes.resources
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.frmNovoFilme.resources
+C:\Users\marin\OneDrive\Documentos\Trabalhos CTI\Programas\C#\filmesAppN-Continuacao\filmesApp1A\filmesApp1A\obj\Debug\net8.0-windows\filmesApp1A.frmInserirAtores.resources
